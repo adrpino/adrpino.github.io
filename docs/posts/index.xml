@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Adrian Pino&#39;s Blog</title>
-    <link>http://example.org/posts/</link>
+    <link>https://adrpino.github.io/docs/posts/</link>
     <description>Recent content in Posts on Adrian Pino&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Oct 2017 10:41:27 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://adrpino.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://adrpino.github.io/docs/posts/first-post/</link>
       <pubDate>Sun, 08 Oct 2017 10:41:27 +0200</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://adrpino.github.io/docs/posts/first-post/</guid>
       <description>Hello world!</description>
     </item>
     

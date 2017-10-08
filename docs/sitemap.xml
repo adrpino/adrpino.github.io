@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/first-post/</loc>
+    <loc>https://adrpino.github.io/docs/posts/first-post/</loc>
     <lastmod>2017-10-08T10:41:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-10-08T10:41:27+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://adrpino.github.io/docs/</loc>
     <lastmod>2017-10-08T10:41:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://adrpino.github.io/docs/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adrpino.github.io/docs/posts/</loc>
+    <lastmod>2017-10-08T10:41:27+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://adrpino.github.io/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
